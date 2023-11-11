@@ -1,0 +1,2249 @@
+[
+    {
+        "Building": "BM",
+        "kWh": "81,547.41 ",
+        "Bath": "326,189.65 ",
+        "Month": "May",
+        "Year": "2560"
+    },
+    {
+        "Building": "BM",
+        "kWh": "88,326.45 ",
+        "Bath": "353,305.82 ",
+        "Month": "Jun",
+        "Year": "2560"
+    },
+    {
+        "Building": "BM",
+        "kWh": "84,589.09 ",
+        "Bath": "338,356.37 ",
+        "Month": "Jul",
+        "Year": "2560"
+    },
+    {
+        "Building": "BM",
+        "kWh": "81,992.93 ",
+        "Bath": "327,971.70 ",
+        "Month": "Aug",
+        "Year": "2560"
+    },
+    {
+        "Building": "BM",
+        "kWh": "84,729.78 ",
+        "Bath": "338,919.11 ",
+        "Month": "Sep",
+        "Year": "2560"
+    },
+    {
+        "Building": "BM",
+        "kWh": "78,476.56 ",
+        "Bath": "313,906.24 ",
+        "Month": "Oct",
+        "Year": "2560"
+    },
+    {
+        "Building": "BM",
+        "kWh": "72,296.09 ",
+        "Bath": "289,184.38 ",
+        "Month": "Nov",
+        "Year": "2560"
+    },
+    {
+        "Building": "BM",
+        "kWh": "72,831.24 ",
+        "Bath": "291,324.96 ",
+        "Month": "Dec",
+        "Year": "2560"
+    },
+    {
+        "Building": "BM",
+        "kWh": "73,617.84",
+        "Bath": "294,471.36",
+        "Month": "Jan",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "77,336.85",
+        "Bath": "309,347.41",
+        "Month": "Feb",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "90,501.32",
+        "Bath": "362,005.26",
+        "Month": "Mar",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "85,316.88",
+        "Bath": "341,267.54",
+        "Month": "Apr",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "77,772.50",
+        "Bath": "311,090.02",
+        "Month": "May",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "87,405.91",
+        "Bath": "349,623.63",
+        "Month": "Jun",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "81,599.32",
+        "Bath": "326,397.30",
+        "Month": "Jul",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "82,783.85",
+        "Bath": "331,135.38",
+        "Month": "Aug",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "90,581.44",
+        "Bath": "362,325.75",
+        "Month": "Sep",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "92,528.59",
+        "Bath": "370,114.37",
+        "Month": "Oct",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "81,836.70",
+        "Bath": "339,622.32",
+        "Month": "Nov",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "72,958.07",
+        "Bath": "302,775.98",
+        "Month": "Dec",
+        "Year": "2561"
+    },
+    {
+        "Building": "BM",
+        "kWh": "57,163.68",
+        "Bath": "228,654.74",
+        "Month": "Jan",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "56,079.91",
+        "Bath": "232,731.62",
+        "Month": "Feb",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "59,726.92",
+        "Bath": "247,866.70",
+        "Month": "Mar",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "63,843.81",
+        "Bath": "264,951.82",
+        "Month": "Apr",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "70,071.14",
+        "Bath": "290,795.24",
+        "Month": "May",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "62,968.23",
+        "Bath": "261,318.16",
+        "Month": "Jun",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "76,755.80",
+        "Bath": "318,536.59",
+        "Month": "Jul",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "92,146.02",
+        "Bath": "382,405.99",
+        "Month": "Aug",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "91,858.83",
+        "Bath": "381,214.14",
+        "Month": "Sep",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "88,624.13",
+        "Bath": "367,790.14",
+        "Month": "Oct",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "71,239.06",
+        "Bath": "295,642.11",
+        "Month": "Nov",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "68,712.75",
+        "Bath": "285,157.89",
+        "Month": "Dec",
+        "Year": "2562"
+    },
+    {
+        "Building": "BM",
+        "kWh": "53,490.78",
+        "Bath": "221,986.72",
+        "Month": "Jan",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "65,319.86",
+        "Bath": "271,077.40",
+        "Month": "Feb",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "43,216.44",
+        "Bath": "179,348.23",
+        "Month": "Mar",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "60,797.93",
+        "Bath": "252,311.43",
+        "Month": "Apr",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "70,886.81",
+        "Bath": "294,180.28",
+        "Month": "May",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "63,180.26",
+        "Bath": "262,198.10",
+        "Month": "Jun",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "62,516.07",
+        "Bath": "259,441.70",
+        "Month": "Jul",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "54,360.09",
+        "Bath": "225,594.35",
+        "Month": "Aug",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "58,085.55",
+        "Bath": "241,055.05",
+        "Month": "Sep",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "46,136.52",
+        "Bath": "191,466.54",
+        "Month": "Oct",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "46,115.20",
+        "Bath": "191,378.07",
+        "Month": "Nov",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "44,776.69",
+        "Bath": "185,823.24",
+        "Month": "Dec",
+        "Year": "2563"
+    },
+    {
+        "Building": "BM",
+        "kWh": "48,702.91 ",
+        "Bath": "202,117.07 ",
+        "Month": "Jan",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "43,025.67 ",
+        "Bath": "178,556.54 ",
+        "Month": "Feb",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "51,592.37 ",
+        "Bath": "214,108.34 ",
+        "Month": "Mar",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "60,562.05 ",
+        "Bath": "251,332.50 ",
+        "Month": "Apr",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "52,087.01 ",
+        "Bath": "216,161.08 ",
+        "Month": "May",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "48,109.53 ",
+        "Bath": "199,654.55 ",
+        "Month": "Jun",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "50,027.74 ",
+        "Bath": "207,615.10 ",
+        "Month": "Jul",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "59,629.77 ",
+        "Bath": "247,463.54 ",
+        "Month": "Aug",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "52,409.06 ",
+        "Bath": "217,497.60 ",
+        "Month": "Sep",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "56,125.16 ",
+        "Bath": "232,919.41 ",
+        "Month": "Oct",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "53,370.00 ",
+        "Bath": "221,485.50 ",
+        "Month": "Nov",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "60,129.00 ",
+        "Bath": "249,535.35 ",
+        "Month": "Dec",
+        "Year": "2564"
+    },
+    {
+        "Building": "BM",
+        "kWh": "61,630.00",
+        "Bath": "246,520.00",
+        "Month": "Jan",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "46,420.00",
+        "Bath": "192,643.00",
+        "Month": "Feb",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "56,500.00",
+        "Bath": "234,475.00",
+        "Month": "Mar",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "60,040.00",
+        "Bath": "249,166.00",
+        "Month": "Apr",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "78,560.00",
+        "Bath": "326,024.00",
+        "Month": "May",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "79,500.00",
+        "Bath": "329,925.00",
+        "Month": "Jun",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "67,300.00",
+        "Bath": "279,295.00",
+        "Month": "Jul",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "62,610.00",
+        "Bath": "259,831.50",
+        "Month": "Aug",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "53,020.00",
+        "Bath": "220,033.00",
+        "Month": "Sep",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "59,204.00",
+        "Bath": "245,696.60",
+        "Month": "Oct",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "59,976.00",
+        "Bath": "248,900.40",
+        "Month": "Nov",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "63,400.00",
+        "Bath": "263,110.00",
+        "Month": "Dec",
+        "Year": "2565"
+    },
+    {
+        "Building": "BM",
+        "kWh": "41,697.11 ",
+        "Bath": "173,043.02 ",
+        "Month": "Jan",
+        "Year": "2566"
+    },
+    {
+        "Building": "BM",
+        "kWh": "43,625.75 ",
+        "Bath": "181,046.87 ",
+        "Month": "Feb",
+        "Year": "2566"
+    },
+    {
+        "Building": "BM",
+        "kWh": "45,790.00 ",
+        "Bath": "206,055.00 ",
+        "Month": "Mar",
+        "Year": "2566"
+    },
+    {
+        "Building": "BM",
+        "kWh": "51,000.00 ",
+        "Bath": "229,500.00 ",
+        "Month": "Apr",
+        "Year": "2566"
+    },
+    {
+        "Building": "BM",
+        "kWh": "54,155.95 ",
+        "Bath": "243,701.77 ",
+        "Month": "May",
+        "Year": "2566"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 27,404.16 ",
+        "Bath": " 109,616.64 ",
+        "Month": "May",
+        "Year": "2560"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 31,617.99 ",
+        "Bath": " 126,471.97 ",
+        "Month": "Jun",
+        "Year": "2560"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 29,956.74 ",
+        "Bath": " 119,826.98 ",
+        "Month": "Jul",
+        "Year": "2560"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 30,545.52 ",
+        "Bath": " 122,182.07 ",
+        "Month": "Aug",
+        "Year": "2560"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 29,991.27 ",
+        "Bath": " 119,965.09 ",
+        "Month": "Sep",
+        "Year": "2560"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 22,878.95 ",
+        "Bath": " 91,515.80 ",
+        "Month": "Oct",
+        "Year": "2560"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 25,094.70 ",
+        "Bath": " 100,378.82 ",
+        "Month": "Nov",
+        "Year": "2560"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 22,167.47 ",
+        "Bath": " 88,669.88 ",
+        "Month": "Dec",
+        "Year": "2560"
+    },
+    {
+        "Building": "BB",
+        "kWh": "23,790.18",
+        "Bath": "95,160.72",
+        "Month": "Jan",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "25,138.68",
+        "Bath": "100,554.71",
+        "Month": "Feb",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "31,041.90",
+        "Bath": "124,167.61",
+        "Month": "Mar",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "30,926.12",
+        "Bath": "123,704.50",
+        "Month": "Apr",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "27,239.51",
+        "Bath": "108,958.05",
+        "Month": "May",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "30,957.09",
+        "Bath": "123,828.38",
+        "Month": "Jun",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "23,922.83",
+        "Bath": "95,691.31",
+        "Month": "Jul",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "27,854.04",
+        "Bath": "111,416.16",
+        "Month": "Aug",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "30,869.00",
+        "Bath": "123,476.00",
+        "Month": "Sep",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "29,056.98",
+        "Bath": "116,227.92",
+        "Month": "Oct",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "29,588.25",
+        "Bath": "122,791.25",
+        "Month": "Nov",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "29,211.13",
+        "Bath": "121,226.20",
+        "Month": "Dec",
+        "Year": "2561"
+    },
+    {
+        "Building": "BB",
+        "kWh": "27,323.19",
+        "Bath": "109,292.77",
+        "Month": "Jan",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "26,440.74",
+        "Bath": "109,729.08",
+        "Month": "Feb",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "36,728.48",
+        "Bath": "152,423.18",
+        "Month": "Mar",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "36,785.15",
+        "Bath": "152,658.36",
+        "Month": "Apr",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "37,199.59",
+        "Bath": "154,378.31",
+        "Month": "May",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "31,381.93",
+        "Bath": "130,234.99",
+        "Month": "Jun",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "34,801.52",
+        "Bath": "144,426.31",
+        "Month": "Jul",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "30,592.88",
+        "Bath": "126,960.46",
+        "Month": "Aug",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "29,481.24",
+        "Bath": "122,347.15",
+        "Month": "Sep",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "31,943.41",
+        "Bath": "132,565.17",
+        "Month": "Oct",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "31,127.90",
+        "Bath": "129,180.80",
+        "Month": "Nov",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "30,802.97",
+        "Bath": "127,832.33",
+        "Month": "Dec",
+        "Year": "2562"
+    },
+    {
+        "Building": "BB",
+        "kWh": "28,695.80",
+        "Bath": "119,087.59",
+        "Month": "Jan",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "28,949.36",
+        "Bath": "120,139.84",
+        "Month": "Feb",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "34,817.58",
+        "Bath": "144,492.96",
+        "Month": "Mar",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "33,861.13",
+        "Bath": "140,523.71",
+        "Month": "Apr",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "36,782.33",
+        "Bath": "152,646.67",
+        "Month": "May",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "33,758.36",
+        "Bath": "140,097.20",
+        "Month": "Jun",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "32,893.40",
+        "Bath": "136,507.62",
+        "Month": "Jul",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "31,841.51",
+        "Bath": "132,142.27",
+        "Month": "Aug",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "29,556.44",
+        "Bath": "122,659.22",
+        "Month": "Sep",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "23,366.34",
+        "Bath": "96,970.33",
+        "Month": "Oct",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "28,706.12",
+        "Bath": "119,130.41",
+        "Month": "Nov",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": "26,486.43",
+        "Bath": "109,918.71",
+        "Month": "Dec",
+        "Year": "2563"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 29,674.84 ",
+        "Bath": " 123,150.58 ",
+        "Month": "Jan",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 24,975.62 ",
+        "Bath": " 103,648.80 ",
+        "Month": "Feb",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 29,831.46 ",
+        "Bath": " 123,800.54 ",
+        "Month": "Mar",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 29,290.56 ",
+        "Bath": " 121,555.84 ",
+        "Month": "Apr",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 32,964.18 ",
+        "Bath": " 136,801.34 ",
+        "Month": "May",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 33,344.20 ",
+        "Bath": " 138,378.45 ",
+        "Month": "Jun",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 28,792.04 ",
+        "Bath": " 119,486.97 ",
+        "Month": "Jul",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 27,853.28 ",
+        "Bath": " 115,591.10 ",
+        "Month": "Aug",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 23,736.83 ",
+        "Bath": " 98,507.84 ",
+        "Month": "Sep",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 25,263.19 ",
+        "Bath": " 104,842.22 ",
+        "Month": "Oct",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 24,219.83 ",
+        "Bath": " 100,512.31 ",
+        "Month": "Nov",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 25,769.24 ",
+        "Bath": " 106,942.34 ",
+        "Month": "Dec",
+        "Year": "2564"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 24,978.77 ",
+        "Bath": " 103,661.87 ",
+        "Month": "Jan",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 21,064.81 ",
+        "Bath": " 87,418.98 ",
+        "Month": "Feb",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 25,163.00 ",
+        "Bath": " 104,430.14 ",
+        "Month": "Mar",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 26,557.02 ",
+        "Bath": " 110,211.62 ",
+        "Month": "Apr",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 26,560.33 ",
+        "Bath": " 110,225.38 ",
+        "Month": "May",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 27,689.05 ",
+        "Bath": " 114,909.57 ",
+        "Month": "Jun",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 25,531.46 ",
+        "Bath": " 105,955.58 ",
+        "Month": "Jul",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 24,409.07 ",
+        "Bath": " 101,297.62 ",
+        "Month": "Aug",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 22,127.15 ",
+        "Bath": " 91,827.66 ",
+        "Month": "Sep",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 23,908.83 ",
+        "Bath": " 99,221.66 ",
+        "Month": "Oct",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 21,539.87 ",
+        "Bath": " 89,390.47 ",
+        "Month": "Nov",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": " 27,184.80 ",
+        "Bath": " 112,816.94 ",
+        "Month": "Dec",
+        "Year": "2565"
+    },
+    {
+        "Building": "BB",
+        "kWh": "23,384.27 ",
+        "Bath": "97,044.72 ",
+        "Month": "Jan",
+        "Year": "2566"
+    },
+    {
+        "Building": "BB",
+        "kWh": "24,370.74 ",
+        "Bath": "101,138.55 ",
+        "Month": "Feb",
+        "Year": "2566"
+    },
+    {
+        "Building": "BB",
+        "kWh": "29,473.84 ",
+        "Bath": "122,316.44 ",
+        "Month": "Mar",
+        "Year": "2566"
+    },
+    {
+        "Building": "BB",
+        "kWh": "32,545.53 ",
+        "Bath": "135,063.94 ",
+        "Month": "Apr",
+        "Year": "2566"
+    },
+    {
+        "Building": "BB",
+        "kWh": "29,413.38 ",
+        "Bath": "122,065.51 ",
+        "Month": "May",
+        "Year": "2566"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 60,618.77 ",
+        "Bath": " 242,475.08 ",
+        "Month": "May",
+        "Year": "2560"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 40,759.27 ",
+        "Bath": " 163,037.09 ",
+        "Month": "Jun",
+        "Year": "2560"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 8,878.27 ",
+        "Bath": " 35,513.08 ",
+        "Month": "Jul",
+        "Year": "2560"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 15,928.86 ",
+        "Bath": " 63,715.43 ",
+        "Month": "Aug",
+        "Year": "2560"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 11,364.98 ",
+        "Bath": " 45,459.92 ",
+        "Month": "Sep",
+        "Year": "2560"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 16,779.22 ",
+        "Bath": " 67,116.89 ",
+        "Month": "Oct",
+        "Year": "2560"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 13,518.02 ",
+        "Bath": " 54,072.07 ",
+        "Month": "Nov",
+        "Year": "2560"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 5,014.18 ",
+        "Bath": " 20,056.74 ",
+        "Month": "Dec",
+        "Year": "2560"
+    },
+    {
+        "Building": "BC",
+        "kWh": "2,064.26",
+        "Bath": "8,257.05",
+        "Month": "Jan",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "34,417.89",
+        "Bath": "137,671.56",
+        "Month": "Feb",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "48,103.94",
+        "Bath": "192,415.75",
+        "Month": "Mar",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "555.28",
+        "Bath": "2,221.11",
+        "Month": "Apr",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "25,073.91",
+        "Bath": "25,073.91",
+        "Month": "May",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "5,700.26",
+        "Bath": "22,801.03",
+        "Month": "Jun",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "34,308.26",
+        "Bath": "137,233.02",
+        "Month": "Jul",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "33,548.60",
+        "Bath": "134,194.39",
+        "Month": "Aug",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "37,472.01",
+        "Bath": "149,888.03",
+        "Month": "Sep",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "35,686.85",
+        "Bath": "142,747.39",
+        "Month": "Oct",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "1,638.13",
+        "Bath": "6,798.25",
+        "Month": "Nov",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "2,061.65",
+        "Bath": "8,555.86",
+        "Month": "Dec",
+        "Year": "2561"
+    },
+    {
+        "Building": "BC",
+        "kWh": "31,711.17",
+        "Bath": "126,844.69",
+        "Month": "Jan",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "30,756.49",
+        "Bath": "127,639.43",
+        "Month": "Feb",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "6,583.91",
+        "Bath": "27,323.24",
+        "Month": "Mar",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "228.86",
+        "Bath": "949.78",
+        "Month": "Apr",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "2,006.72",
+        "Bath": "8,327.88",
+        "Month": "May",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "233.23",
+        "Bath": "967.90",
+        "Month": "Jun",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "7,701.70",
+        "Bath": "31,962.06",
+        "Month": "Jul",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "231.53",
+        "Bath": "960.86",
+        "Month": "Aug",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "126.07",
+        "Bath": "523.18",
+        "Month": "Sep",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "177.10",
+        "Bath": "734.98",
+        "Month": "Oct",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "105.11",
+        "Bath": "436.20",
+        "Month": "Nov",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "184.70",
+        "Bath": "766.50",
+        "Month": "Dec",
+        "Year": "2562"
+    },
+    {
+        "Building": "BC",
+        "kWh": "206.90",
+        "Bath": "858.65",
+        "Month": "Jan",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "204.71",
+        "Bath": "849.56",
+        "Month": "Feb",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "228.00",
+        "Bath": "946.22",
+        "Month": "Mar",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "225.61",
+        "Bath": "936.29",
+        "Month": "Apr",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "255.12",
+        "Bath": "1,058.75",
+        "Month": "May",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "7,219.79",
+        "Bath": "29,962.11",
+        "Month": "Jun",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "32,418.82",
+        "Bath": "134,538.12",
+        "Month": "Jul",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "37,859.21",
+        "Bath": "157,115.72",
+        "Month": "Aug",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "35,077.02",
+        "Bath": "145,569.63",
+        "Month": "Sep",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "27,971.03",
+        "Bath": "116,079.79",
+        "Month": "Oct",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "32,679.68",
+        "Bath": "135,620.66",
+        "Month": "Nov",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": "30,273.50",
+        "Bath": "125,635.04",
+        "Month": "Dec",
+        "Year": "2563"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 33,021.49 ",
+        "Bath": " 137,039.19 ",
+        "Month": "Jan",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 27,874.60 ",
+        "Bath": " 115,679.58 ",
+        "Month": "Feb",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 35,390.80 ",
+        "Bath": " 146,871.81 ",
+        "Month": "Mar",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 35,540.33 ",
+        "Bath": " 147,492.39 ",
+        "Month": "Apr",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 37,551.19 ",
+        "Bath": " 155,837.45 ",
+        "Month": "May",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": "40,702.42",
+        "Bath": " 168,915.04 ",
+        "Month": "Jun",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 34,704.46 ",
+        "Bath": " 144,023.52 ",
+        "Month": "Jul",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 33,078.58 ",
+        "Bath": " 137,276.09 ",
+        "Month": "Aug",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 28,371.00 ",
+        "Bath": " 117,739.64 ",
+        "Month": "Sep",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 31,314.49 ",
+        "Bath": " 129,955.13 ",
+        "Month": "Oct",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 27,467.77 ",
+        "Bath": " 113,991.26 ",
+        "Month": "Nov",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 25,204.04 ",
+        "Bath": " 104,596.77 ",
+        "Month": "Dec",
+        "Year": "2564"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 24,373.73 ",
+        "Bath": " 101,150.99 ",
+        "Month": "Jan",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 25,402.74 ",
+        "Bath": " 105,421.35 ",
+        "Month": "Feb",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 32,890.26 ",
+        "Bath": " 136,494.56 ",
+        "Month": "Mar",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 34,407.54 ",
+        "Bath": " 142,791.31 ",
+        "Month": "Apr",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 34,965.51 ",
+        "Bath": " 145,106.86 ",
+        "Month": "May",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": "36,486.49",
+        "Bath": " 151,418.93 ",
+        "Month": "Jun",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 33,437.60 ",
+        "Bath": " 138,766.04 ",
+        "Month": "Jul",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 31,792.72 ",
+        "Bath": " 131,939.79 ",
+        "Month": "Aug",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 28,714.33 ",
+        "Bath": " 119,164.49 ",
+        "Month": "Sep",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 30,291.44 ",
+        "Bath": " 125,709.49 ",
+        "Month": "Oct",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 26,746.84 ",
+        "Bath": " 110,999.40 ",
+        "Month": "Nov",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": " 33,548.22 ",
+        "Bath": " 139,225.13 ",
+        "Month": "Dec",
+        "Year": "2565"
+    },
+    {
+        "Building": "BC",
+        "kWh": "28,800.52",
+        "Bath": "119,522.16",
+        "Month": "Jan",
+        "Year": "2566"
+    },
+    {
+        "Building": "BC",
+        "kWh": "30,370.14",
+        "Bath": "126,036.07",
+        "Month": "Feb",
+        "Year": "2566"
+    },
+    {
+        "Building": "BC",
+        "kWh": "37,198.42",
+        "Bath": "154,373.46",
+        "Month": "Mar",
+        "Year": "2566"
+    },
+    {
+        "Building": "BC",
+        "kWh": "40,618.65",
+        "Bath": "168,567.41",
+        "Month": "Apr",
+        "Year": "2566"
+    },
+    {
+        "Building": "BC",
+        "kWh": "39,510.94",
+        "Bath": "163,970.39",
+        "Month": "May",
+        "Year": "2566"
+    },
+    {
+        "Building": "AM",
+        "kWh": "43,892.28 ",
+        "Bath": "175,569.10 ",
+        "Month": "May",
+        "Year": "2560"
+    },
+    {
+        "Building": "AM",
+        "kWh": "56,089.56 ",
+        "Bath": "224,358.22 ",
+        "Month": "Jun",
+        "Year": "2560"
+    },
+    {
+        "Building": "AM",
+        "kWh": "52,376.48 ",
+        "Bath": "209,505.90 ",
+        "Month": "Jul",
+        "Year": "2560"
+    },
+    {
+        "Building": "AM",
+        "kWh": "58,142.22 ",
+        "Bath": "232,568.86 ",
+        "Month": "Aug",
+        "Year": "2560"
+    },
+    {
+        "Building": "AM",
+        "kWh": "56,042.82 ",
+        "Bath": "224,171.28 ",
+        "Month": "Sep",
+        "Year": "2560"
+    },
+    {
+        "Building": "AM",
+        "kWh": "48,764.39 ",
+        "Bath": "195,057.56 ",
+        "Month": "Oct",
+        "Year": "2560"
+    },
+    {
+        "Building": "AM",
+        "kWh": "33,063.75 ",
+        "Bath": "132,254.99 ",
+        "Month": "Nov",
+        "Year": "2560"
+    },
+    {
+        "Building": "AM",
+        "kWh": "37,190.54 ",
+        "Bath": "148,762.15 ",
+        "Month": "Dec",
+        "Year": "2560"
+    },
+    {
+        "Building": "AM",
+        "kWh": "35,544.53 ",
+        "Bath": "142,178.11 ",
+        "Month": "Jan",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "33,764.01 ",
+        "Bath": "135,056.05 ",
+        "Month": "Feb",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "37,650.78 ",
+        "Bath": "150,603.12 ",
+        "Month": "Mar",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "32,942.86 ",
+        "Bath": "131,771.45 ",
+        "Month": "Apr",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "41,154.00 ",
+        "Bath": "164,614.00 ",
+        "Month": "May",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "47,887.00 ",
+        "Bath": "191,551.00 ",
+        "Month": "Jun",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "47,947.99 ",
+        "Bath": "191,791.96 ",
+        "Month": "Jul",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "50,570.00 ",
+        "Bath": "202,282.00 ",
+        "Month": "Aug",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "27,095.00 ",
+        "Bath": "108,380.00 ",
+        "Month": "Sep",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "27,539.00 ",
+        "Bath": "110,158.00 ",
+        "Month": "Oct",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "29,645.75 ",
+        "Bath": "123,029.87 ",
+        "Month": "Nov",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "32,826.12 ",
+        "Bath": "136,228.41 ",
+        "Month": "Dec",
+        "Year": "2561"
+    },
+    {
+        "Building": "AM",
+        "kWh": "26,329.36 ",
+        "Bath": "105,317.47 ",
+        "Month": "Jan",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "24,871.21 ",
+        "Bath": "99,484.84 ",
+        "Month": "Feb",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "76,253.87 ",
+        "Bath": "316,453.56 ",
+        "Month": "Mar",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "73,131.45 ",
+        "Bath": "303,495.54 ",
+        "Month": "Apr",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "70,866.32 ",
+        "Bath": "294,095.22 ",
+        "Month": "May",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "59,181.06 ",
+        "Bath": "245,601.40 ",
+        "Month": "Jun",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "62,226.82 ",
+        "Bath": "258,241.32 ",
+        "Month": "Jul",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "60,974.20 ",
+        "Bath": "253,042.92 ",
+        "Month": "Aug",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "60,612.07 ",
+        "Bath": "251,540.10 ",
+        "Month": "Sep",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "51,288.08 ",
+        "Bath": "212,845.52 ",
+        "Month": "Oct",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "64,193.24 ",
+        "Bath": "266,401.93 ",
+        "Month": "Nov",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "64,071.65 ",
+        "Bath": "265,897.36 ",
+        "Month": "Dec",
+        "Year": "2562"
+    },
+    {
+        "Building": "AM",
+        "kWh": "59,690.27",
+        "Bath": "247,714.62",
+        "Month": "Jan",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "59,284.06",
+        "Bath": "246,028.87",
+        "Month": "Feb",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "71,131.30",
+        "Bath": "295,194.92",
+        "Month": "Mar",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "64,981.88",
+        "Bath": "269,674.82",
+        "Month": "Apr",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "49,245.10",
+        "Bath": "204,367.17",
+        "Month": "May",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "45,853.95",
+        "Bath": "190,293.90",
+        "Month": "Jun",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "36,883.22",
+        "Bath": "153,065.37",
+        "Month": "Jul",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "29,411.77",
+        "Bath": "122,058.86",
+        "Month": "Aug",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "27,718.32",
+        "Bath": "115,031.03",
+        "Month": "Sep",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "22,774.56",
+        "Bath": "94,514.40",
+        "Month": "Oct",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "28,938.10",
+        "Bath": "120,093.11",
+        "Month": "Nov",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "25,713.42",
+        "Bath": "106,710.68",
+        "Month": "Dec",
+        "Year": "2563"
+    },
+    {
+        "Building": "AM",
+        "kWh": "65,835.16 ",
+        "Bath": "263,340.64 ",
+        "Month": "Jan",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "55,761.86 ",
+        "Bath": "223,047.44 ",
+        "Month": "Feb",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "61,918.48 ",
+        "Bath": "247,673.92 ",
+        "Month": "Mar",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "56,175.46 ",
+        "Bath": "224,701.84 ",
+        "Month": "Apr",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "35,528.70 ",
+        "Bath": "142,114.80 ",
+        "Month": "May",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "34,654.00 ",
+        "Bath": "138,616.00 ",
+        "Month": "Jun",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "44,846.00 ",
+        "Bath": "179,384.00 ",
+        "Month": "Jul",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "59,100.00 ",
+        "Bath": "236,400.00 ",
+        "Month": "Aug",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "50,900.00 ",
+        "Bath": "203,600.00 ",
+        "Month": "Sep",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "59,500.00 ",
+        "Bath": "238,000.00 ",
+        "Month": "Oct",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "57,600.00 ",
+        "Bath": "239,040.00 ",
+        "Month": "Nov",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "64,634.00 ",
+        "Bath": "263,110.00 ",
+        "Month": "Dec",
+        "Year": "2564"
+    },
+    {
+        "Building": "AM",
+        "kWh": "63,600.00 ",
+        "Bath": "263,940.00 ",
+        "Month": "Jan",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "58,200.00 ",
+        "Bath": "241,530.00 ",
+        "Month": "Feb",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "63,000.00 ",
+        "Bath": "261,450.00 ",
+        "Month": "Mar",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "62,700.00 ",
+        "Bath": "260,205.00 ",
+        "Month": "Apr",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "61,000.00 ",
+        "Bath": "253,150.00 ",
+        "Month": "May",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "55,100.00 ",
+        "Bath": "228,665.00 ",
+        "Month": "Jun",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "52,600.00 ",
+        "Bath": "218,290.00 ",
+        "Month": "Jul",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "64,200.00 ",
+        "Bath": "288,900.00 ",
+        "Month": "Aug",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "50,700.00 ",
+        "Bath": "228,150.00 ",
+        "Month": "Sep",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "62,000.00 ",
+        "Bath": "279,000.00 ",
+        "Month": "Oct",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "60,000.00 ",
+        "Bath": "270,000.00 ",
+        "Month": "Nov",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "63,000.00 ",
+        "Bath": "283,500.00 ",
+        "Month": "Dec",
+        "Year": "2565"
+    },
+    {
+        "Building": "AM",
+        "kWh": "44,600.00 ",
+        "Bath": "185,090.00 ",
+        "Month": "Jan",
+        "Year": "2566"
+    },
+    {
+        "Building": "AM",
+        "kWh": "48,400.00 ",
+        "Bath": "200,860.00 ",
+        "Month": "Feb",
+        "Year": "2566"
+    },
+    {
+        "Building": "AM",
+        "kWh": "51,800.00 ",
+        "Bath": "214,970.00 ",
+        "Month": "Mar",
+        "Year": "2566"
+    },
+    {
+        "Building": "AM",
+        "kWh": "63,000.00 ",
+        "Bath": "261,450.00 ",
+        "Month": "Apr",
+        "Year": "2566"
+    },
+    {
+        "Building": "AM",
+        "kWh": "63,500.00 ",
+        "Bath": "263,525.00 ",
+        "Month": "May",
+        "Year": "2566"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 2,792.75 ",
+        "Bath": " 11,589.90 ",
+        "Month": "Jan",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 9,363.65 ",
+        "Bath": " 38,859.14 ",
+        "Month": "Feb",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 9,490.89 ",
+        "Bath": " 39,387.20 ",
+        "Month": "Mar",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,276.06 ",
+        "Bath": " 34,345.64 ",
+        "Month": "Apr",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 9,157.20 ",
+        "Bath": " 38,002.37 ",
+        "Month": "May",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,876.82 ",
+        "Bath": " 36,838.79 ",
+        "Month": "Jun",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,076.37 ",
+        "Bath": " 33,516.93 ",
+        "Month": "Jul",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,276.47 ",
+        "Bath": " 34,347.37 ",
+        "Month": "Aug",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 7,302.14 ",
+        "Bath": " 30,303.87 ",
+        "Month": "Sep",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,139.59 ",
+        "Bath": " 33,779.28 ",
+        "Month": "Oct",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,155.78 ",
+        "Bath": " 33,846.49 ",
+        "Month": "Nov",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 9,641.28 ",
+        "Bath": " 40,011.30 ",
+        "Month": "Dec",
+        "Year": "2564"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 9,629.34 ",
+        "Bath": " 39,961.77 ",
+        "Month": "Jan",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 7,523.13 ",
+        "Bath": " 31,220.98 ",
+        "Month": "Feb",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,786.15 ",
+        "Bath": " 36,462.54 ",
+        "Month": "Mar",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,826.58 ",
+        "Bath": " 36,630.29 ",
+        "Month": "Apr",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,396.47 ",
+        "Bath": " 34,845.35 ",
+        "Month": "May",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 8,555.71 ",
+        "Bath": " 35,506.21 ",
+        "Month": "Jun",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 7,736.61 ",
+        "Bath": " 32,106.92 ",
+        "Month": "Jul",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 6,700.83 ",
+        "Bath": " 27,808.45 ",
+        "Month": "Aug",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 6,691.57 ",
+        "Bath": " 27,770.02 ",
+        "Month": "Sep",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 7,544.70 ",
+        "Bath": " 31,310.50 ",
+        "Month": "Oct",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 7,024.86 ",
+        "Bath": " 29,153.18 ",
+        "Month": "Nov",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": " 9,485.30 ",
+        "Bath": " 39,364.00 ",
+        "Month": "Dec",
+        "Year": "2565"
+    },
+    {
+        "Building": "BW",
+        "kWh": "6,810.28 ",
+        "Bath": "28,262.65 ",
+        "Month": "Jan",
+        "Year": "2566"
+    },
+    {
+        "Building": "BW",
+        "kWh": "7,510.55 ",
+        "Bath": "31,168.77 ",
+        "Month": "Feb",
+        "Year": "2566"
+    },
+    {
+        "Building": "BW",
+        "kWh": "6,732.91 ",
+        "Bath": "27,941.59 ",
+        "Month": "Mar",
+        "Year": "2566"
+    },
+    {
+        "Building": "BW",
+        "kWh": "7,710.00 ",
+        "Bath": "34,695.00 ",
+        "Month": "Apr",
+        "Year": "2566"
+    },
+    {
+        "Building": "BW",
+        "kWh": "8,390.00 ",
+        "Bath": "37,755.00 ",
+        "Month": "May",
+        "Year": "2566"
+    }
+]

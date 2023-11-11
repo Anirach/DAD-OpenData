@@ -1,0 +1,16 @@
+[
+    {"Building":"B","Month":"September","Year":"2566","Gate":"Gate 1 Level 2 (East)","Persons":49683},
+    {"Building":"B","Month":"October","Year":"2566","Gate":"Gate 1 Level 2 (East)","Persons":44510},
+    {"Building":"B","Month":"August","Year":"2566","Gate":"Gate 2 Level 1 (South)","Persons":3158},
+    {"Building":"B","Month":"September","Year":"2566","Gate":"Gate 2 Level 1 (South)","Persons":3745},
+    {"Building":"B","Month":"October","Year":"2566","Gate":"Gate 2 Level 1 (South)","Persons":3816},
+    {"Building":"B","Month":"August","Year":"2566","Gate":"Gate 2 Level 2 (South)","Persons":47723},
+    {"Building":"B","Month":"September","Year":"2566","Gate":"Gate 2 Level 2 (South)","Persons":46769},
+    {"Building":"B","Month":"October","Year":"2566","Gate":"Gate 2 Level 2 (South)","Persons":42697},
+    {"Building":"B","Month":"August","Year":"2566","Gate":"Gate 3 Level 2 (West)","Persons":6780},
+    {"Building":"B","Month":"September","Year":"2566","Gate":"Gate 3 Level 2 (West)","Persons":5717},
+    {"Building":"B","Month":"October","Year":"2566","Gate":"Gate 3 Level 2 (West)","Persons":5219},
+    {"Building":"B","Month":"September","Year":"2566","Gate":"Gate 4 Level 2 (North)","Persons":3226},
+    {"Building":"B","Month":"October","Year":"2566","Gate":"Gate 4 Level 2 (North)","Persons":4212}
+  ]
+  
